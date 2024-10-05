@@ -1,0 +1,8 @@
+  body {
+    font-family: 'Inter', serif;
+  }
+  .toplink{
+    color: #666;
+    cursor: pointer;
+    padding: 20px;
+  }
